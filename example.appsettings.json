@@ -1,0 +1,9 @@
+{
+    "GraphDetails": {
+        "Host": "https://login.microsoftonline.com",
+        "Tenant": "",
+        "Client_Id": "",
+        "Scope": "https://graph.microsoft.com/.default",
+        "Client_Secret": ""
+      }
+}
